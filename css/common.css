@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 微软雅黑;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    text-indent: 2em;
+}
+
+ul, ol, li {
+    list-style: none;
+}
